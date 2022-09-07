@@ -37,7 +37,7 @@ void loop() {
     c(); h();e();t(); a(); l();   //chetal
    
 
-  delay(10000); //delay for 10 seconds
+  delay(1000); //delay for 1 seconds
 
 }
 
